@@ -111,7 +111,9 @@
 <img src="https://img.shields.io/badge/-Scrapy-60A839?style=flat&logoColor=white"/>
 </td>
 <td align="center">
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
+<br><b>Matplotlib</b>
+<br><img src="https://img.shields.io/badge/-Visualization-11557c?style=flat&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -155,7 +157,7 @@
 
 ### ･ﾟ✧ Portfolio Under Development ✧ﾟ･
 
-*Curating a collection of meaningful data projects*
+*Curating a collection of amazing data projects!*
 
 <br>
 
@@ -278,7 +280,7 @@ Storytelling through data design
 
 <br>
 
-*"Data is not just numbers—it's the foundation for informed decisions and meaningful change."*
+*"Data is not just numbers—it's the foundation for informed decisions and purposeful change."*
 
 <br><br>
 
