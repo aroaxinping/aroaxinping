@@ -5,7 +5,7 @@
 
 <br>
 
-# ✨ Aroa Xinping ✨
+#  Aroa Xinping 
 
 ###  Turning data into meaningful stories. 
 ### Continuously learning, intentionally creating.
