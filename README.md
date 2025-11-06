@@ -1,8 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header&reversal=false"/>
-
 <br>
 
 #  Aroa Xinping 
@@ -284,5 +282,4 @@ Storytelling through data design
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=footer"/>
 </div>
