@@ -174,9 +174,9 @@
 <br>
 
 <div align="center">
-
+ 
 **Python**  
-![](https://geps.dev/progress/25?dangerColor=FFB6C1&warningColor=FFB6C1&successColor=FFB6C1)
+![](https://geps.dev/progress/35?dangerColor=FFB6C1&warningColor=FFB6C1&successColor=FFB6C1)
 
 **SQL**  
 ![](https://geps.dev/progress/30?dangerColor=FFC0CB&warningColor=FFC0CB&successColor=FFC0CB)
