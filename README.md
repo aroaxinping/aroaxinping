@@ -153,14 +153,25 @@
 
 <div align="center">
 
-## ☕️ Latest Project
+## 📊 En curso — Instagram Analytics
 
-**[Tech Salaries & Remote Work Analysis](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work)**  
+**[instagram-analytics-aroaxinping](https://github.com/aroaxinping/instagram-analytics-aroaxinping)**
+
+Análisis de mis propias métricas de Instagram para tomar decisiones de contenido basadas en datos.
+Extracción manual desde Meta Business Suite → limpieza con pandas → análisis exploratorio con matplotlib/seaborn.
+
+`Python` `pandas` `matplotlib` `seaborn` `Jupyter` · *Actualización mensual*
+
+---
+
+## ☕️ Anterior
+
+**[Tech Salaries & Remote Work Analysis](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work)**
 89K+ developers analyzed | Remote = 64% higher salary | Python, Pandas, Matplotlib
 
 ---
 
-📂 **[View All Personal Projects](https://github.com/aroaxinping/data-playground)**
+📂 **[Ver todos los proyectos](https://github.com/aroaxinping/data-playground)**
 
 </div>
 
