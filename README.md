@@ -153,11 +153,11 @@
 
 <div align="center">
 
-🟣 **Google Data Analytics** — Professional Certificate · Coursera / Google
+**Google Data Analytics** — Professional Certificate · Coursera / Google
 <br>
-🔵 **IBM Data Analyst** — Professional Certificate · Coursera / IBM
+**IBM Data Analyst** — Professional Certificate · Coursera / IBM
 <br>
-🩷 **Claude Code** — Anthropic (free tier)
+**Claude Code** — Anthropic (free tier)
 
 </div>
 
