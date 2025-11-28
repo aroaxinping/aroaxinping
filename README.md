@@ -114,24 +114,35 @@
 <br><img src="https://img.shields.io/badge/-Visualization-11557c?style=flat&logoColor=white"/>
 </td>
 </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**AI Tools**
+
+<br>
+
+<table>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/color/48/claude-ai.png" width="60"/>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/anthropic/D4A5D4" width="50"/>
 <br><b>Claude Code</b>
-<br><img src="https://img.shields.io/badge/-AI_Assistant-D4A5D4?style=flat&logoColor=white"/>
+<br><img src="https://img.shields.io/badge/-Anthropic-D4A5D4?style=flat&logoColor=white"/>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/color/48/chatgpt.png" width="60"/>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/openai/74AA9C" width="50"/>
 <br><b>ChatGPT</b>
-<br><img src="https://img.shields.io/badge/-AI_Assistant-74AA9C?style=flat&logo=openai&logoColor=white"/>
+<br><img src="https://img.shields.io/badge/-OpenAI-74AA9C?style=flat&logo=openai&logoColor=white"/>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/color/48/google-logo.png" width="60"/>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/google/4285F4" width="50"/>
 <br><b>NotebookLM</b>
 <br><img src="https://img.shields.io/badge/-Google_AI-4285F4?style=flat&logo=google&logoColor=white"/>
 </td>
-<td align="center"></td>
-<td align="center"></td>
 </tr>
 </table>
 
