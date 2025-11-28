@@ -153,37 +153,11 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="55" height="55"/>
-<br><br>
-<b>Google Data Analytics</b>
-<br><br>
-<img src="https://img.shields.io/badge/Coursera-Professional_Certificate-B388EB?style=flat-square&logo=coursera&logoColor=white"/>
-<br><br>
-<img src="https://img.shields.io/badge/✓_Completado-FFE4F0?style=flat-square&logoColor=white"/>
-</td>
-<td align="center" width="33%">
-<img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="55" height="55"/>
-<br><br>
-<b>IBM Data Analyst</b>
-<br><br>
-<img src="https://img.shields.io/badge/Coursera-Professional_Certificate-B388EB?style=flat-square&logo=coursera&logoColor=white"/>
-<br><br>
-<img src="https://img.shields.io/badge/✓_Completado-FFE4F0?style=flat-square&logoColor=white"/>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/✦_Claude-E6A8D7?style=for-the-badge&logoColor=white" height="40"/>
-<br><br>
-<b>Claude Code</b>
-<br><br>
-<img src="https://img.shields.io/badge/Anthropic-Claude_Code-B388EB?style=flat-square&logo=anthropic&logoColor=white"/>
-<br><br>
-<img src="https://img.shields.io/badge/Free_Tier-FFE4F0?style=flat-square"/>
-</td>
-</tr>
-</table>
+🟣 **Google Data Analytics** — Professional Certificate · Coursera / Google
+<br>
+🔵 **IBM Data Analyst** — Professional Certificate · Coursera / IBM
+<br>
+🩷 **Claude Code** — Anthropic (free tier)
 
 </div>
 
