@@ -95,9 +95,9 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 </td>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<br><b>Web Scraping</b>
-<br><img src="https://img.shields.io/badge/-BeautifulSoup-43B02A?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Scrapy-60A839?style=flat&logoColor=white"/>
+<br><b>PyPI</b>
+<br><img src="https://img.shields.io/badge/-tokpipe-D4A5D4?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/-instapipe-D4A5D4?style=flat&logoColor=white"/>
 </td>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
@@ -157,7 +157,7 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 | Exploratory Data Analysis | Advanced Statistical Methods |
 | Dashboard Design & UX | Python for Data Science |
 | SQL Query Optimization | Cloud Platforms (AWS/Azure) |
-| Web Scraping | |
+| PyPI Package Development | Deep Learning Basics |
 
 </div>
 
@@ -234,6 +234,50 @@ Comparative analysis TikTok vs Instagram: same creator, same period, two differe
 8 visualizations · Normalized KPIs · Executive scorecard · Feb–Mar 2026
 
 `Python` `pandas` `matplotlib` `numpy` · *Monthly updates*
+
+---
+
+## Data Playground — Gasolina & Guerras
+
+**[data-playground-gasolina](https://github.com/aroaxinping/data-playground-gasolina)**
+
+3 análisis independientes sobre precios de combustible:
+- **Análisis 1** — Correlación de Pearson r = 0.99 entre Brent y surtidor en España
+- **Análisis 2** — Cross-correlogram con lags 0–8 semanas: ¿cuánto tarda el crudo en reflejarse en el surtidor?
+- **Análisis 4** — Event study ±30 días alrededor de Gulf War, Iraq, Libia, COVID y Ucrania
+- **Análisis 5** — Rocket & Feather test: asimetría en la transmisión de precios
+
+`Python` `pandas` `scipy` `matplotlib` · *series temporales · econometría*
+
+---
+
+## NFTs: el Hype, el Pico y el Crash
+
+**[data-playground-nft](https://github.com/aroaxinping/data-playground-nft)**
+
+Análisis del ciclo de vida del mercado NFT: volumen OpenSea, floor prices de CryptoPunks y BAYC, correlación con ETH, y los 6+6 factores de la burbuja.
+
+`Python` `pandas` `chart.js` `matplotlib` · *mercado · análisis de burbujas*
+
+---
+
+## ¿La IA revaloriza lo artesanal?
+
+**[data-playground / arte-vs-ia](https://github.com/aroaxinping/data-playground/tree/main/03-arte-vs-ia)**
+
+El premium handmade/digital ha pasado de 2× a 14× desde el boom de la IA generativa. Análisis con Google Trends, Etsy, subastas y sentimiento del consumidor.
+
+`Python` `scipy` `pandas` `matplotlib` · *consumer behavior · AI impact*
+
+---
+
+## UOC — Data Science Notes
+
+**[ds-uoc-notes](https://github.com/aroaxinping/ds-uoc-notes)**
+
+Apuntes personales del Grado en Ciencia de Datos Aplicada (UOC). Resúmenes, esquemas, mapas mentales y ejercicios resueltos para las 4 asignaturas del semestre 2025-2.
+
+`Markdown` · *Python · Matemáticas · Comunicación TIC · Ciencia de datos*
 
 ---
 
