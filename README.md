@@ -20,7 +20,7 @@
 
 <!-- About Me Section -->
 <details open>
-<summary><h3>🪞 About Me</h3></summary>
+<summary><h3>About Me</h3></summary>
 
 <br>
 <br>
@@ -41,7 +41,7 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <!-- Skills & Tools Section -->
 <details open>
-<summary><h3>🛠️ Skills & Technical Toolkit</h3></summary>
+<summary><h3>Skills & Technical Toolkit</h3></summary>
 <br>
 
 <div align="center">
@@ -143,7 +143,7 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <div align="center">
 
-**✨ Core Competencies & Growth Areas ✨**
+**Core Competencies & Growth Areas**
 
 </div>
 
@@ -151,13 +151,13 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <div align="center">
 
-| ⚡ **Proficient Skills** | 📈 **Currently Developing** |
+| **Proficient Skills** | **Currently Developing** |
 |:---|:---|
-| ✓ Data Cleaning & Preprocessing | ⟡ Machine Learning Fundamentals |
-| ✓ Exploratory Data Analysis | ⟡ Advanced Statistical Methods |
-| ✓ Dashboard Design & UX | ⟡ Python for Data Science |
-| ✓ SQL Query Optimization | ⟡ Cloud Platforms (AWS/Azure) |
-| ✓ Web Scraping | |
+| Data Cleaning & Preprocessing | Machine Learning Fundamentals |
+| Exploratory Data Analysis | Advanced Statistical Methods |
+| Dashboard Design & UX | Python for Data Science |
+| SQL Query Optimization | Cloud Platforms (AWS/Azure) |
+| Web Scraping | |
 
 </div>
 
@@ -169,7 +169,7 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <!-- Certifications Section -->
 <details open>
-<summary><h3>🎓 Certifications</h3></summary>
+<summary><h3>Certifications</h3></summary>
 <br>
 
 <div align="center">
@@ -177,8 +177,6 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 **Google Data Analytics** — Professional Certificate · Coursera / Google
 <br>
 **IBM Data Analyst** — Professional Certificate · Coursera / IBM
-<br>
-**Claude Code** — Anthropic (free tier)
 
 </div>
 
@@ -190,7 +188,7 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <!-- Projects Section -->
 <details open>
-<summary><h3>💫 Featured Projects</h3></summary>
+<summary><h3>Featured Projects</h3></summary>
 <br>
 
 <div align="center">
@@ -217,25 +215,25 @@ No APIs, no scraping — works directly with your TikTok export files (CSV/XLSX)
 
 ---
 
-## En curso — SQL Analytics
+## SQL Analytics
 
 **[sql-social-media-analytics-aroaxinping](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping)**
 
-Análisis de los mismos datos de TikTok e Instagram usando SQL puro sobre SQLite.
-Window functions, CTEs, subqueries correlacionadas y análisis cross-platform con UNION.
+Analysis of TikTok and Instagram data using pure SQL on SQLite.
+Window functions, CTEs, correlated subqueries and cross-platform analysis with UNION.
 
 `SQL` `SQLite` `Python` `pandas` `Jupyter`
 
 ---
 
-## En curso — Cross-Platform Analytics
+## Cross-Platform Analytics
 
 **[social-media-analytics-aroaxinping](https://github.com/aroaxinping/social-media-analytics-aroaxinping)**
 
-Análisis comparativo TikTok vs Instagram: mismo creador, mismo período, dos algoritmos distintos.
-8 visualizaciones · KPIs normalizados · scorecard ejecutivo · Feb–Mar 2026
+Comparative analysis TikTok vs Instagram: same creator, same period, two different algorithms.
+8 visualizations · Normalized KPIs · Executive scorecard · Feb–Mar 2026
 
-`Python` `pandas` `matplotlib` `numpy` · *Actualización mensual*
+`Python` `pandas` `matplotlib` `numpy` · *Monthly updates*
 
 ---
 
@@ -246,7 +244,7 @@ Análisis comparativo TikTok vs Instagram: mismo creador, mismo período, dos al
 
 ---
 
-📂 **[Ver todos los proyectos](https://github.com/aroaxinping/data-playground)**
+**[Ver todos los proyectos](https://github.com/aroaxinping/data-playground)**
 
 </div>
 
@@ -257,7 +255,7 @@ Análisis comparativo TikTok vs Instagram: mismo creador, mismo período, dos al
 
 <!-- GitHub Stats Section -->
 <details open>
-<summary><h3>🎀 GitHub Analytics</h3></summary>
+<summary><h3>GitHub Analytics</h3></summary>
 <br>
 
 <div align="center">
@@ -270,7 +268,7 @@ Análisis comparativo TikTok vs Instagram: mismo creador, mismo período, dos al
 
 <br><br>
 
-### ✨ My Coding Journey ✨
+### My Coding Journey
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AroaXinping&theme=github-compact&bg_color=FFE4F0&color=B388EB&line=E6A8D7&point=B388EB&area=true&hide_border=true&area_color=F5E6F0&title_color=B388EB&custom_title=%20&radius=15&height=200" alt="Activity Graph" width="75%"/>
 
@@ -292,7 +290,7 @@ Análisis comparativo TikTok vs Instagram: mismo creador, mismo período, dos al
 
 <!-- Connect Section -->
 <details>
-<summary><h3>💌 Let's Connect</h3></summary>
+<summary><h3>Let's Connect</h3></summary>
 <br>
 
 <div align="center">
@@ -309,7 +307,7 @@ Análisis comparativo TikTok vs Instagram: mismo creador, mismo período, dos al
 
 <br><br>
 
-*💼 Available for entry-level positions to learn and grow :)*
+*Available for entry-level positions to learn and grow :)*
 
 </div>
 
