@@ -27,9 +27,9 @@
 
 <div align="center">
 
-✨ **Role:** Data Analyst  
+✨ **Role:** Data Analyst 
 💻 **Focus:** Statistical Analysis & Business Intelligence   
-🎧 **Current Goal:** Building a comprehensive analytics portfolio
+🎧 **Current Goal:** Building a comprehensive analytics portfolio while getting my Data Science Degree
 
 <br>
  
