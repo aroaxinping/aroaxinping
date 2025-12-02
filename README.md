@@ -267,6 +267,11 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
 ### Thank You for Visiting! <3
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AroaXinping&color=FFB6C1&style=flat-square&label=Profile+Views)
+
+<br>
 
 <br>
 
