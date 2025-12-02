@@ -158,6 +158,10 @@
 **[Tech Salaries & Remote Work Analysis](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work)**  
 89K+ developers analyzed | Remote = 64% higher salary | Python, Pandas, Matplotlib
 
+---
+
+📂 **[View All Personal Projects](https://github.com/aroaxinping/data-playground)**
+
 </div>
 
 </details>
