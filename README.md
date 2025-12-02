@@ -153,22 +153,10 @@
 
 <div align="center">
 
-### ･ﾟ✧ Portfolio Under Development ✧ﾟ･
+## ☕️ Latest Project
 
-*Curating a collection of amazing data projects!*
-
-<br>
-
-**👾 Interactive Dashboards**  
-Visual analytics & KPI tracking
-
-**🔍 Analysis Case Studies**  
-End-to-end data investigations
-
-**📈 Visualization Portfolios**  
-Storytelling through data design
-
-<br>
+**[Tech Salaries & Remote Work Analysis](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work)**  
+89K+ developers analyzed | Remote = 64% higher salary | Python, Pandas, Matplotlib
 
 </div>
 
