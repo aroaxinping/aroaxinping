@@ -215,7 +215,7 @@ Two published Python packages for social media analytics. Import your TikTok or 
 
 ## Petróleo, Guerras y el Surtidor
 
-**[data-playground-gasolina](https://github.com/aroaxinping/data-playground-gasolina)**
+**[data-playground → project 03](https://github.com/aroaxinping/data-playground)**
 
 Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag cross-correlogram (0–8 weeks), geopolitical event study (Gulf War → Ukraine), and Rocket & Feather asymmetry test.
 
@@ -229,9 +229,9 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 |---|---|---|
 | [social-media-analytics](https://github.com/aroaxinping/social-media-analytics-aroaxinping) | Python · pandas | TikTok vs Instagram — same creator, same period, two algorithms. Normalized KPIs + scorecard |
 | [sql-social-media-analytics](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping) | SQL · SQLite | Same data analyzed with pure SQL — window functions, CTEs, correlated subqueries |
-| [data-playground-nft](https://github.com/aroaxinping/data-playground-nft) | Python · pandas | NFT market lifecycle: OpenSea volume, floor prices, ETH correlation, bubble factors |
-| [data-playground / arte-vs-ia](https://github.com/aroaxinping/data-playground/tree/main/03-arte-vs-ia) | Python · scipy | Handmade premium 2× → 14× since generative AI boom |
-| [data-playground / tech-salaries](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work) | Python · pandas | 89K+ devs — remote work pays 64% more |
+| [data-playground → NFT](https://github.com/aroaxinping/data-playground) | Python · pandas | NFT market lifecycle: OpenSea volume, floor prices, ETH correlation, bubble factors |
+| [data-playground → arte-vs-ia](https://github.com/aroaxinping/data-playground) | Python · scipy | Handmade premium 2× → 14× since generative AI boom |
+| [data-playground → tech-salaries](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work) | Python · pandas | 89K+ devs — remote work pays 64% more |
 
 </div>
 
