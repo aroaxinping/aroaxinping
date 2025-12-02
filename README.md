@@ -251,7 +251,7 @@
 
 <br><br>
 
-*💼 Aviable for entry-level junior positions and freelance projects to learn and grow :)*
+*💼 Available for entry-level positions to learn and grow :)*
 
 </div>
 
