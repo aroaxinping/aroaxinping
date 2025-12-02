@@ -153,9 +153,9 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 | **Proficient Skills** | **Currently Developing** |
 |:---|:---|
-| Data Cleaning & Preprocessing | Machine Learning Fundamentals |
-| Exploratory Data Analysis | Advanced Statistical Methods |
-| Dashboard Design & UX | Python for Data Science |
+| Data Cleaning & Preprocessing | Machine Learning (sklearn, Random Forest) |
+| Exploratory Data Analysis | Statistical Inference & Hypothesis Testing |
+| Dashboard Design & UX | Time Series Analysis (statsmodels) |
 | SQL Query Optimization | Cloud Platforms (AWS/Azure) |
 | PyPI Package Development | Deep Learning Basics |
 
