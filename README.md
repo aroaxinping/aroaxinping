@@ -43,7 +43,7 @@ I get curious about small, oddly specific things in my own life — and instead 
 
 <!-- Skills & Tools Section -->
 <details open>
-<summary><h3>Skills & Technical Toolkit</h3></summary>
+<summary><h3>Tech Stack</h3></summary>
 <br>
 
 <div align="center">
@@ -96,10 +96,9 @@ I get curious about small, oddly specific things in my own life — and instead 
 <br><img src="https://img.shields.io/badge/-Version%20Control-F05032?style=flat&logo=git&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<br><b>PyPI</b>
-<br><img src="https://img.shields.io/badge/-tokpipe-D4A5D4?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/-instapipe-D4A5D4?style=flat&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="60"/>
+<br><b>Streamlit</b>
+<br><img src="https://img.shields.io/badge/-Dashboards-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 </td>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
