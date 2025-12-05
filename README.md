@@ -29,9 +29,9 @@ def Aroa(self) -> DataAnalyst:
 
 <div align="center">
 
-Data analyst focused on statistics, data visualization and business intelligence.
+Data analyst focused on statistics, visualization and business intelligence.
 
-I get curious about small, oddly specific things in my own life — and instead of letting it go, I build something to find out. Some of it turns into data. Some of it just turns out funny.
+Sometimes I get oddly specific questions about my own life, and answer them with data. Some of it turns into something useful. Some of it just turns out funny.
 
 </div>
 
