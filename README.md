@@ -325,7 +325,7 @@ Open to entry-level and junior data roles — always happy to chat.
 
 <br>
 
-*"Data is not just numbers—it's the foundation for informed decisions and purposeful change."*
+*License: MIT — My Ideas, Tested*
 
 <br><br>
 
