@@ -302,7 +302,7 @@ Open to entry-level and junior data roles — always happy to chat.
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-### Thank You for Visiting! <3
+`# Thanks for reading until EOF`
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AroaXinping&color=FFB6C1&style=flat-square&label=Profile+Views)
