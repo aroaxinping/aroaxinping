@@ -6,7 +6,8 @@
 #  Aroa Xinping
 
 ```python
-def Aroa(self) -> DataAnalyst: ...
+def Aroa(self) -> DataAnalyst:
+    """Answers her own questions with data."""
 ```
 
 <br>
@@ -28,14 +29,9 @@ def Aroa(self) -> DataAnalyst: ...
 
 <div align="center">
 
-```python
-"""
 Data analyst who works out whether a number actually means anything.
 
-Sometimes that's dashboards and business questions. Sometimes it's testing
-whether "89% of women agree" survives a t-test. (It usually doesn't.)
-"""
-```
+Sometimes that's business dashboards. Sometimes it's checking whether "89% of women agree" survives a t-test. (It usually doesn't.)
 
 </div>
 
