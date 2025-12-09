@@ -3,12 +3,9 @@
 
 <br>
 
-#  Aroa Xinping
+# `class Aroa(DataAnalyst):`
 
-```python
-class Aroa(DataAnalyst):
-    """Answers her own questions with data."""
-```
+`"""Answers her own questions with data."""`
 
 <br>
 
