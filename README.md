@@ -26,8 +26,7 @@
 
 <div align="center">
 
-I'm in it for the moment "huh" becomes "oh, that's why."
-
+I'm in it for the moment "huh" becomes "oh, that's why."<br>
 Statistically normal, personally an outlier.
 
 </div>
