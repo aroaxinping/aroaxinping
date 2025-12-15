@@ -137,7 +137,7 @@
 
 <div align="left">
 
-*Currently going deeper into machine learning and the cloud.*
+`# currently exploring: machine learning, cloud`
 
 </div>
 
