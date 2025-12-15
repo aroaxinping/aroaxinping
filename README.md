@@ -198,7 +198,7 @@ Two published Python packages for social media analytics. Import your TikTok or 
 
 ---
 
-#### Petróleo, Guerras y el Surtidor
+#### Oil, War, and the Price at the Pump
 
 **[data-playground → project 03](https://github.com/aroaxinping/data-playground)**
 
