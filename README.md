@@ -137,9 +137,7 @@
 
 <div align="left">
 
-Next up:
-
-`# currently exploring: machine learning, cloud`
+`# next up: machine learning, cloud`
 
 </div>
 
