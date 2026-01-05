@@ -224,6 +224,7 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 | [data-playground → NFT](https://github.com/aroaxinping/data-playground) | Python · pandas | NFT market lifecycle: OpenSea volume, floor prices, ETH correlation, bubble factors |
 | [data-playground → arte-vs-ia](https://github.com/aroaxinping/data-playground) | Python · scipy | Handmade premium 2× → 14× since generative AI boom |
 | [data-playground → tech-salaries](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work) | Python · pandas | 89K+ devs — remote work pays 64% more |
+| [scraper-gasolineras-espana](https://github.com/aroaxinping/scraper-gasolineras-espana) | Python · GitHub Actions | Weekly scraper of petrol station prices via Spain's public MINETUR API — auto-updated every Monday |
 
 </div>
 
