@@ -1,11 +1,18 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=80&section=header" width="100%"/>
-
 <div align="center">
 
-**Aroa Xinping**
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=B388EB&center=true&vCenter=true&width=440&height=30&lines=Data+Analyst;Turning+data+into+meaningful+stories;Continuously+learning%2C+intentionally+creating" alt="Typing SVG"/>
+#  Aroa Xinping
+
+###  Turning data into meaningful stories.
+### Continuously learning, intentionally creating.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false" width="50%"/>
+
+<br>
 
 </div>
 
