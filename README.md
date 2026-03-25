@@ -176,6 +176,17 @@ Extracción manual desde TikTok Studio → limpieza con pandas → 8 visualizaci
 
 ---
 
+## En curso — Cross-Platform Analytics
+
+**[social-media-analytics-aroaxinping](https://github.com/aroaxinping/social-media-analytics-aroaxinping)**
+
+Análisis comparativo TikTok vs Instagram: mismo creador, mismo período, dos algoritmos distintos.
+8 visualizaciones · KPIs normalizados · scorecard ejecutivo · Feb–Mar 2026
+
+`Python` `pandas` `matplotlib` `numpy` · *Actualización mensual*
+
+---
+
 ## Anterior
 
 **[Tech Salaries & Remote Work Analysis](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work)**
