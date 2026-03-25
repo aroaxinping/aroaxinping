@@ -146,7 +146,7 @@
 
 <div align="center">
 
-## 📊 En curso — Instagram Analytics
+## En curso — Instagram Analytics
 
 **[instagram-analytics-aroaxinping](https://github.com/aroaxinping/instagram-analytics-aroaxinping)**
 
@@ -157,7 +157,7 @@ Extracción manual desde Meta Business Suite → limpieza con pandas → anális
 
 ---
 
-## ☕️ Anterior
+## Anterior
 
 **[Tech Salaries & Remote Work Analysis](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work)**
 89K+ developers analyzed | Remote = 64% higher salary | Python, Pandas, Matplotlib
