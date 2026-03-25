@@ -5,8 +5,7 @@
 
 <br>
 
-###  Turning data into meaningful stories.
-### Continuously learning, intentionally creating.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B388EB&center=true&vCenter=true&width=500&lines=Data+Analyst;Turning+data+into+meaningful+stories;Continuously+learning%2C+intentionally+creating" alt="Typing SVG"/>
 
 <br>
 
