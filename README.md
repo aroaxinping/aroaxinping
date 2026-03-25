@@ -153,26 +153,26 @@
 
 <div align="center">
 
-## En curso — TikTok Analytics
-
-**[tiktok-analytics-aroaxinping](https://github.com/aroaxinping/tiktok-analytics-aroaxinping)**
-
-Análisis de mis propias métricas de TikTok para tomar decisiones de contenido basadas en datos.
-Extracción manual desde TikTok Studio → limpieza con pandas → 8 visualizaciones + Excel con fórmulas nativas.
-3.1M vistas · +3,154 seguidores · 18.5% engagement rate medio · 24 feb – 24 mar 2026
-
-`Python` `pandas` `matplotlib` `openpyxl` `Jupyter` · *Actualización mensual*
-
----
-
 ## En curso — Instagram Analytics
 
 **[instagram-analytics-aroaxinping](https://github.com/aroaxinping/instagram-analytics-aroaxinping)**
 
-Análisis de mis propias métricas de Instagram para tomar decisiones de contenido basadas en datos.
+Proyecto personal con el objetivo de crecer en Instagram de forma consciente y basada en datos.
 Extracción manual desde Meta Business Suite → limpieza con pandas → análisis exploratorio con matplotlib/seaborn.
 
 `Python` `pandas` `matplotlib` `seaborn` `Jupyter` · *Actualización mensual*
+
+---
+
+## En curso — TikTok Analytics
+
+**[tiktok-analytics-aroaxinping](https://github.com/aroaxinping/tiktok-analytics-aroaxinping)**
+
+Proyecto personal con el objetivo de crecer en TikTok entendiendo qué contenido funciona y por qué.
+Extracción manual desde TikTok Studio → limpieza con pandas → 8 visualizaciones + Excel con fórmulas nativas.
+3.1M vistas · +3,154 seguidores · 18.5% engagement rate medio · 24 feb – 24 mar 2026
+
+`Python` `pandas` `matplotlib` `openpyxl` `Jupyter` · *Actualización mensual*
 
 ---
 
