@@ -176,6 +176,17 @@ Extracción manual desde TikTok Studio → limpieza con pandas → 8 visualizaci
 
 ---
 
+## En curso — SQL Analytics
+
+**[sql-social-media-analytics-aroaxinping](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping)**
+
+Análisis de los mismos datos de TikTok e Instagram usando SQL puro sobre SQLite.
+Window functions, CTEs, subqueries correlacionadas y análisis cross-platform con UNION.
+
+`SQL` `SQLite` `Python` `pandas` `Jupyter`
+
+---
+
 ## En curso — Cross-Platform Analytics
 
 **[social-media-analytics-aroaxinping](https://github.com/aroaxinping/social-media-analytics-aroaxinping)**
