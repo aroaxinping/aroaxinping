@@ -1,13 +1,11 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=200&section=header&text=Aroa%20Xinping&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=80&section=header" width="100%"/>
 
 <div align="center">
 
-<br>
+**Aroa Xinping**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B388EB&center=true&vCenter=true&width=500&lines=Data+Analyst;Turning+data+into+meaningful+stories;Continuously+learning%2C+intentionally+creating" alt="Typing SVG"/>
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=B388EB&center=true&vCenter=true&width=440&height=30&lines=Data+Analyst;Turning+data+into+meaningful+stories;Continuously+learning%2C+intentionally+creating" alt="Typing SVG"/>
 
 </div>
 
