@@ -147,7 +147,7 @@
 <br>
 
 <!-- Projects Section -->
-<details>
+<details open>
 <summary><h3>💫 Featured Projects</h3></summary>
 <br>
 
