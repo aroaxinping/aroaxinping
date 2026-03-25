@@ -179,38 +179,6 @@ Extracción manual desde Meta Business Suite → limpieza con pandas → anális
 
 <br>
 
-<!-- Learning Journey Section -->
-<details>
-<summary><h3>🪴 Learning Journey & Progress</h3></summary>
-<br>
-
-<div align="center">
- 
-**Python**  
-![](https://geps.dev/progress/35?dangerColor=FFB6C1&warningColor=FFB6C1&successColor=FFB6C1)
-
-**SQL**  
-![](https://geps.dev/progress/30?dangerColor=FFC0CB&warningColor=FFC0CB&successColor=FFC0CB)
-
-**Excel**  
-![](https://geps.dev/progress/35?dangerColor=FFB6C1&warningColor=FFB6C1&successColor=FFB6C1)
-
-**Tableau**  
-![](https://geps.dev/progress/20?dangerColor=FFC0CB&warningColor=FFC0CB&successColor=FFC0CB)
-
-**Power BI**  
-![](https://geps.dev/progress/20?dangerColor=FFB6C1&warningColor=FFB6C1&successColor=FFB6C1)
-
-**Statistics**  
-![](https://geps.dev/progress/15?dangerColor=FFC0CB&warningColor=FFC0CB&successColor=FFC0CB)
-
-</div>
-
-<br>
-
-</details>
-
-<br>
 
 <!-- GitHub Stats Section -->
 <details open>
@@ -254,10 +222,6 @@ Extracción manual desde Meta Business Suite → limpieza con pandas → anális
 
 <a href="https://linkedin.com/in/aroa-xinping">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-D4A5D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFE4F0"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-Get_in_Touch-D4A5D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFE4F0"/>
 </a>
 
 <br><br>
