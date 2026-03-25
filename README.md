@@ -1,16 +1,12 @@
 <!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=200&section=header&text=Aroa%20Xinping&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
 <div align="center">
 
 <br>
 
-#  Aroa Xinping 
-
-###  Turning data into meaningful stories. 
+###  Turning data into meaningful stories.
 ### Continuously learning, intentionally creating.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false" width="50%"/>
 
 <br>
 
