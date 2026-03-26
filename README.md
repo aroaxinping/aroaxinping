@@ -27,18 +27,9 @@
 
 <div align="center">
 
-✨ **Role:** Data Analyst 
-💻 **Focus:** Statistical Analysis & Business Intelligence   
-🎧 **Current Goal:** Building a comprehensive analytics portfolio while getting my Data Science Degree
-
-<br>
- 
-🩰 Balance between precision & creativity  
-☁️ Impact through data-driven insights
-
-<br>
-
-*✧･ﾟ: Bringing clarity to complexity, one analysis at a time :･ﾟ✧*
+Data analyst in progress · BSc in Data Science (UOC)
+Focused on statistical analysis, data visualization and business intelligence.
+Building a real portfolio with my own data — TikTok, Instagram and more.
 
 </div>
 
