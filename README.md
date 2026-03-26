@@ -129,19 +129,19 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/Claude_Code-Anthropic-D4A5D4?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<br><br>
+<img src="https://cdn.simpleicons.org/anthropic/D4A5D4" width="55" height="55"/>
+<br><b>Claude Code</b>
+<br><img src="https://img.shields.io/badge/-Anthropic-D4A5D4?style=flat&logoColor=white"/>
 </td>
 <td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<br><br>
+<img src="https://cdn.simpleicons.org/openai/10a37f" width="55" height="55"/>
+<br><b>ChatGPT</b>
+<br><img src="https://img.shields.io/badge/-OpenAI-10a37f?style=flat&logo=openai&logoColor=white"/>
 </td>
 <td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/NotebookLM-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<br><br>
+<img src="https://cdn.simpleicons.org/google/4285F4" width="55" height="55"/>
+<br><b>NotebookLM</b>
+<br><img src="https://img.shields.io/badge/-Google_AI-4285F4?style=flat&logo=google&logoColor=white"/>
 </td>
 </tr>
 </table>
