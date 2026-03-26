@@ -146,6 +146,35 @@
 
 <br>
 
+<!-- Certifications Section -->
+<details open>
+<summary><h3>🎓 Certifications</h3></summary>
+<br>
+
+<div align="center">
+
+<a href="https://www.coursera.org/professional-certificates/google-data-analytics">
+<img src="https://img.shields.io/badge/Google_Data_Analytics-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.coursera.org/professional-certificates/ibm-data-analyst">
+<img src="https://img.shields.io/badge/IBM_Data_Analyst-Professional_Certificate-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Claude_Code-Certified_(free_tier)-D4A5D4?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+</div>
+
+<br>
+
+</details>
+
+<br>
+
 <!-- Projects Section -->
 <details open>
 <summary><h3>💫 Featured Projects</h3></summary>
