@@ -134,7 +134,7 @@
 <br><img src="https://img.shields.io/badge/-Anthropic-D4A5D4?style=flat&logoColor=white"/>
 </td>
 <td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/openai/10a37f" width="55" height="55"/>
+<img src="https://img.icons8.com/color/96/chatgpt.png" width="55" height="55"/>
 <br><b>ChatGPT</b>
 <br><img src="https://img.shields.io/badge/-OpenAI-10a37f?style=flat&logo=openai&logoColor=white"/>
 </td>
