@@ -153,19 +153,37 @@
 
 <div align="center">
 
-<a href="https://www.coursera.org/professional-certificates/google-data-analytics">
-<img src="https://img.shields.io/badge/Google_Data_Analytics-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
-
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="55" height="55"/>
 <br><br>
-
-<a href="https://www.coursera.org/professional-certificates/ibm-data-analyst">
-<img src="https://img.shields.io/badge/IBM_Data_Analyst-Professional_Certificate-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
-</a>
-
+<b>Google Data Analytics</b>
 <br><br>
-
-<img src="https://img.shields.io/badge/Claude_Code-Certified_(free_tier)-D4A5D4?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coursera-Professional_Certificate-B388EB?style=flat-square&logo=coursera&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/✓_Completado-FFE4F0?style=flat-square&logoColor=white"/>
+</td>
+<td align="center" width="33%">
+<img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="55" height="55"/>
+<br><br>
+<b>IBM Data Analyst</b>
+<br><br>
+<img src="https://img.shields.io/badge/Coursera-Professional_Certificate-B388EB?style=flat-square&logo=coursera&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/✓_Completado-FFE4F0?style=flat-square&logoColor=white"/>
+</td>
+<td align="center" width="33%">
+<img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="55" height="55" onerror="this.src='https://img.shields.io/badge/✦-E6A8D7?style=flat-square'"/>
+<br><br>
+<b>Claude Code</b>
+<br><br>
+<img src="https://img.shields.io/badge/Anthropic-Claude_Code-B388EB?style=flat-square&logo=anthropic&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Free_Tier-FFE4F0?style=flat-square"/>
+</td>
+</tr>
+</table>
 
 </div>
 
