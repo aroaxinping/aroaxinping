@@ -174,7 +174,7 @@
 <img src="https://img.shields.io/badge/✓_Completado-FFE4F0?style=flat-square&logoColor=white"/>
 </td>
 <td align="center" width="33%">
-<img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="55" height="55" onerror="this.src='https://img.shields.io/badge/✦-E6A8D7?style=flat-square'"/>
+<img src="https://img.shields.io/badge/✦_Claude-E6A8D7?style=for-the-badge&logoColor=white" height="40"/>
 <br><br>
 <b>Claude Code</b>
 <br><br>
