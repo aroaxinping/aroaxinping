@@ -114,6 +114,25 @@
 <br><img src="https://img.shields.io/badge/-Visualization-11557c?style=flat&logoColor=white"/>
 </td>
 </tr>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/claude-ai.png" width="60"/>
+<br><b>Claude Code</b>
+<br><img src="https://img.shields.io/badge/-AI_Assistant-D4A5D4?style=flat&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/chatgpt.png" width="60"/>
+<br><b>ChatGPT</b>
+<br><img src="https://img.shields.io/badge/-AI_Assistant-74AA9C?style=flat&logo=openai&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/google-logo.png" width="60"/>
+<br><b>NotebookLM</b>
+<br><img src="https://img.shields.io/badge/-Google_AI-4285F4?style=flat&logo=google&logoColor=white"/>
+</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
 </table>
 
 </div>
