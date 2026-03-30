@@ -195,26 +195,25 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <div align="center">
 
-## En curso — Instagram Analytics
+## PyPI — instapipe
 
-**[instagram-analytics-aroaxinping](https://github.com/aroaxinping/instagram-analytics-aroaxinping)**
+**[instapipe](https://github.com/aroaxinping/instapipe)** · [![PyPI](https://img.shields.io/pypi/v/instapipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/instapipe/)
 
-Proyecto personal con el objetivo de crecer en Instagram de forma consciente y basada en datos.
-Extracción manual desde Meta Business Suite → limpieza con pandas → análisis exploratorio con matplotlib/seaborn.
+Data pipeline for Instagram analytics. Import your exported data from Meta Business Suite, clean it, compute real metrics, and visualize what actually works.
+No APIs, no scraping — works directly with your Meta Business Suite exports.
 
-`Python` `pandas` `matplotlib` `seaborn` `Jupyter` · *Actualización mensual*
+`Python` `pandas` `matplotlib` `PyPI` · *pip install instapipe*
 
 ---
 
-## En curso — TikTok Analytics
+## PyPI — tokpipe
 
-**[tiktok-analytics-aroaxinping](https://github.com/aroaxinping/tiktok-analytics-aroaxinping)**
+**[tokpipe](https://github.com/aroaxinping/tokpipe)** · [![PyPI](https://img.shields.io/pypi/v/tokpipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/tokpipe/)
 
-Proyecto personal con el objetivo de crecer en TikTok entendiendo qué contenido funciona y por qué.
-Extracción manual desde TikTok Studio → limpieza con pandas → 8 visualizaciones + Excel con fórmulas nativas.
-3.1M vistas · +3,154 seguidores · 18.5% engagement rate medio · 24 feb – 24 mar 2026
+Data pipeline for TikTok analytics. Import your exported data, clean it, classify content, compute real metrics, and visualize what actually works.
+No APIs, no scraping — works directly with your TikTok export files (CSV/XLSX).
 
-`Python` `pandas` `matplotlib` `openpyxl` `Jupyter` · *Actualización mensual*
+`Python` `pandas` `matplotlib` `PyPI` · *pip install tokpipe*
 
 ---
 
