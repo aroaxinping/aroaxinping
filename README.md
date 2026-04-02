@@ -193,102 +193,45 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <div align="center">
 
-## PyPI — instapipe
+## PyPI packages — tokpipe & instapipe
 
-**[instapipe](https://github.com/aroaxinping/instapipe)** · [![PyPI](https://img.shields.io/pypi/v/instapipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/instapipe/)
+**[tokpipe](https://github.com/aroaxinping/tokpipe)** · [![PyPI](https://img.shields.io/pypi/v/tokpipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/tokpipe/) &nbsp;|&nbsp; **[instapipe](https://github.com/aroaxinping/instapipe)** · [![PyPI](https://img.shields.io/pypi/v/instapipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/instapipe/)
 
-Data pipeline for Instagram analytics. Import your exported data from Meta Business Suite, clean it, compute real metrics, and visualize what actually works.
-No APIs, no scraping — works directly with your Meta Business Suite exports.
+Two published Python packages for social media analytics. Import your TikTok or Instagram exports, clean the data, compute real metrics and visualize what works — no APIs, no scraping.
 
-`Python` `pandas` `matplotlib` `PyPI` · *pip install instapipe*
-
----
-
-## PyPI — tokpipe
-
-**[tokpipe](https://github.com/aroaxinping/tokpipe)** · [![PyPI](https://img.shields.io/pypi/v/tokpipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/tokpipe/)
-
-Data pipeline for TikTok analytics. Import your exported data, clean it, classify content, compute real metrics, and visualize what actually works.
-No APIs, no scraping — works directly with your TikTok export files (CSV/XLSX).
-
-`Python` `pandas` `matplotlib` `PyPI` · *pip install tokpipe*
+`Python` `pandas` `matplotlib` `PyPI` · *pip install tokpipe / pip install instapipe*
 
 ---
 
-## SQL Analytics
-
-**[sql-social-media-analytics-aroaxinping](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping)**
-
-Analysis of TikTok and Instagram data using pure SQL on SQLite.
-Window functions, CTEs, correlated subqueries and cross-platform analysis with UNION.
-
-`SQL` `SQLite` `Python` `pandas` `Jupyter`
-
----
-
-## Cross-Platform Analytics
-
-**[social-media-analytics-aroaxinping](https://github.com/aroaxinping/social-media-analytics-aroaxinping)**
-
-Comparative analysis TikTok vs Instagram: same creator, same period, two different algorithms.
-8 visualizations · Normalized KPIs · Executive scorecard · Feb–Mar 2026
-
-`Python` `pandas` `matplotlib` `numpy` · *Monthly updates*
-
----
-
-## Data Playground — Gasolina & Guerras
+## Petróleo, Guerras y el Surtidor
 
 **[data-playground-gasolina](https://github.com/aroaxinping/data-playground-gasolina)**
 
-3 análisis independientes sobre precios de combustible:
-- **Análisis 1** — Correlación de Pearson r = 0.99 entre Brent y surtidor en España
-- **Análisis 2** — Cross-correlogram con lags 0–8 semanas: ¿cuánto tarda el crudo en reflejarse en el surtidor?
-- **Análisis 4** — Event study ±30 días alrededor de Gulf War, Iraq, Libia, COVID y Ucrania
-- **Análisis 5** — Rocket & Feather test: asimetría en la transmisión de precios
+Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag cross-correlogram (0–8 weeks), geopolitical event study (Gulf War → Ukraine), and Rocket & Feather asymmetry test.
 
-`Python` `pandas` `scipy` `matplotlib` · *series temporales · econometría*
+`Python` `pandas` `scipy` `statsmodels` · *time series · econometrics*
 
 ---
 
-## NFTs: el Hype, el Pico y el Crash
+## Cross-Platform Analytics — TikTok vs Instagram
 
-**[data-playground-nft](https://github.com/aroaxinping/data-playground-nft)**
+**[social-media-analytics-aroaxinping](https://github.com/aroaxinping/social-media-analytics-aroaxinping)**
 
-Análisis del ciclo de vida del mercado NFT: volumen OpenSea, floor prices de CryptoPunks y BAYC, correlación con ETH, y los 6+6 factores de la burbuja.
+Same creator, same period, two algorithms. Comparative analysis with normalized KPIs, 8 visualizations and an executive scorecard — using my own real data.
 
-`Python` `pandas` `chart.js` `matplotlib` · *mercado · análisis de burbujas*
-
----
-
-## ¿La IA revaloriza lo artesanal?
-
-**[data-playground / arte-vs-ia](https://github.com/aroaxinping/data-playground/tree/main/03-arte-vs-ia)**
-
-El premium handmade/digital ha pasado de 2× a 14× desde el boom de la IA generativa. Análisis con Google Trends, Etsy, subastas y sentimiento del consumidor.
-
-`Python` `scipy` `pandas` `matplotlib` · *consumer behavior · AI impact*
+`Python` `pandas` `matplotlib` `numpy`
 
 ---
 
-## UOC — Data Science Notes
+**Other projects**
 
-**[ds-uoc-notes](https://github.com/aroaxinping/ds-uoc-notes)**
-
-Apuntes personales del Grado en Ciencia de Datos Aplicada (UOC). Resúmenes, esquemas, mapas mentales y ejercicios resueltos para las 4 asignaturas del semestre 2025-2.
-
-`Markdown` · *Python · Matemáticas · Comunicación TIC · Ciencia de datos*
-
----
-
-## Anterior
-
-**[Tech Salaries & Remote Work Analysis](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work)**
-89K+ developers analyzed | Remote = 64% higher salary | Python, Pandas, Matplotlib
-
----
-
-**[Ver todos los proyectos](https://github.com/aroaxinping/data-playground)**
+| Repo | Stack | About |
+|---|---|---|
+| [sql-social-media-analytics](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping) | SQL · SQLite | Same social media data analyzed with pure SQL — window functions, CTEs, correlated subqueries |
+| [data-playground-nft](https://github.com/aroaxinping/data-playground-nft) | Python · pandas | NFT market lifecycle: OpenSea volume, floor prices, ETH correlation, bubble factors |
+| [data-playground / arte-vs-ia](https://github.com/aroaxinping/data-playground/tree/main/03-arte-vs-ia) | Python · scipy | Handmade premium 2× → 14× since generative AI boom |
+| [ds-uoc-notes](https://github.com/aroaxinping/ds-uoc-notes) | Markdown | Personal study notes for BSc in Data Science (UOC) — summaries, mind maps, solved exercises |
+| [data-playground / tech-salaries](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work) | Python · pandas | 89K+ devs — remote work pays 64% more |
 
 </div>
 
