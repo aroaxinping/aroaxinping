@@ -193,6 +193,16 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <div align="center">
 
+## redmoon
+
+**[redmoon](https://github.com/aroaxinping/redmoon)** · [![PyPI](https://img.shields.io/pypi/v/redmoon?color=E6A8D7&style=flat-square)](https://pypi.org/project/redmoon/)
+
+Python package that crosses menstrual cycle phases with sleep, HRV and heart rate data from Apple Health exports. Built on 6 years of personal data (76 cycles, 1,153 nights). Wrist temperature rises +0.375°C in luteal phase (p < 0.000001). Random Forest predicts luteal vs non-luteal at F1 = 0.79.
+
+`Python` `pandas` `scipy` `sklearn` `streamlit` `PyPI` · *CLI + dashboard + 37 pytest tests + CI*
+
+---
+
 ## PyPI packages — tokpipe & instapipe
 
 **[tokpipe](https://github.com/aroaxinping/tokpipe)** · [![PyPI](https://img.shields.io/pypi/v/tokpipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/tokpipe/) &nbsp;|&nbsp; **[instapipe](https://github.com/aroaxinping/instapipe)** · [![PyPI](https://img.shields.io/pypi/v/instapipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/instapipe/)
@@ -213,24 +223,14 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 ---
 
-## Cross-Platform Analytics — TikTok vs Instagram
-
-**[social-media-analytics-aroaxinping](https://github.com/aroaxinping/social-media-analytics-aroaxinping)**
-
-Same creator, same period, two algorithms. Comparative analysis with normalized KPIs, 8 visualizations and an executive scorecard — using my own real data.
-
-`Python` `pandas` `matplotlib` `numpy`
-
----
-
 **Other projects**
 
 | Repo | Stack | About |
 |---|---|---|
-| [sql-social-media-analytics](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping) | SQL · SQLite | Same social media data analyzed with pure SQL — window functions, CTEs, correlated subqueries |
+| [social-media-analytics](https://github.com/aroaxinping/social-media-analytics-aroaxinping) | Python · pandas | TikTok vs Instagram — same creator, same period, two algorithms. Normalized KPIs + scorecard |
+| [sql-social-media-analytics](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping) | SQL · SQLite | Same data analyzed with pure SQL — window functions, CTEs, correlated subqueries |
 | [data-playground-nft](https://github.com/aroaxinping/data-playground-nft) | Python · pandas | NFT market lifecycle: OpenSea volume, floor prices, ETH correlation, bubble factors |
 | [data-playground / arte-vs-ia](https://github.com/aroaxinping/data-playground/tree/main/03-arte-vs-ia) | Python · scipy | Handmade premium 2× → 14× since generative AI boom |
-| [ds-uoc-notes](https://github.com/aroaxinping/ds-uoc-notes) | Markdown | Personal study notes for BSc in Data Science (UOC) — summaries, mind maps, solved exercises |
 | [data-playground / tech-salaries](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work) | Python · pandas | 89K+ devs — remote work pays 64% more |
 
 </div>
