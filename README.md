@@ -229,6 +229,13 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 |---|---|---|
 | [social-media-analytics](https://github.com/aroaxinping/social-media-analytics-aroaxinping) | Python · pandas | TikTok vs Instagram — same creator, same period, two algorithms. Normalized KPIs + scorecard |
 | [sql-social-media-analytics](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping) | SQL · SQLite | Same data analyzed with pure SQL — window functions, CTEs, correlated subqueries |
+| [data-playground → Google Trends](https://github.com/aroaxinping/data-playground/tree/main/04-google-trends-bolsa) | Python · pytrends · yfinance | Crisis search terms vs IBEX 35 — Granger causality, cross-correlogram, 3yr weekly data |
+| [data-playground → Spotify tristeza](https://github.com/aroaxinping/data-playground/tree/main/05-spotify-tristeza) | Python · spotipy | Do sad songs perform better? Valence, energy and tempo analyzed across mood playlists |
+| [data-playground → Vivienda Valencia](https://github.com/aroaxinping/data-playground/tree/main/06-vivienda-valencia) | Python · pandas | Housing prices before and after the DANA floods — supply shock and displacement effect |
+| [data-playground → Bitcoin Fear](https://github.com/aroaxinping/data-playground/tree/main/07-bitcoin-fear) | Python · scipy | Fear & Greed Index vs BTC price — does sentiment lead or lag the market? |
+| [data-playground → Olay 89%](https://github.com/aroaxinping/data-playground/tree/main/08-olay-89-claim) | Python · scipy | Statistical deconstruction of Olay's "89% more hydration" claim — baseline bias, power analysis |
+| [data-playground → Clarins](https://github.com/aroaxinping/data-playground/tree/main/09-clarins-double-serum-claims) | Python · scipy | n=24 instrumental studies vs n=388 self-assessment claims — the placebo gap quantified |
+| [data-playground → Vichy M89](https://github.com/aroaxinping/data-playground/tree/main/10-vichy-mineral89) | Python · NCBI API | 5 real PubMed studies vs "100% hydration" marketing claim — methodology quality matrix |
 | [data-playground → NFT](https://github.com/aroaxinping/data-playground) | Python · pandas | NFT market lifecycle: OpenSea volume, floor prices, ETH correlation, bubble factors |
 | [data-playground → arte-vs-ia](https://github.com/aroaxinping/data-playground) | Python · scipy | Handmade premium 2× → 14× since generative AI boom |
 | [data-playground → tech-salaries](https://github.com/aroaxinping/data-playground/tree/main/02-tech-salaries-remote-work) | Python · pandas | 89K+ devs — remote work pays 64% more |
