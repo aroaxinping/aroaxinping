@@ -1,16 +1,11 @@
 <!-- Header -->
-<div align="center">
+<div align="left">
 
 <br>
 
-#  Aroa Xinping
+# class Aroa(DataAnalyst):
 
-###  Turning data into meaningful stories.
-### Continuously learning, intentionally creating.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false" width="50%"/>
+*"""Answers her own questions with data."""*
 
 <br>
 
@@ -20,16 +15,16 @@
 
 <!-- About Me Section -->
 <details open>
-<summary><h3>About Me</h3></summary>
+<summary><h3>Overview</h3></summary>
 
 <br>
 <br>
 
-<div align="center">
+<div align="left">
 
-Data analyst in progress · BSc in Data Science (UOC)
-Focused on statistical analysis, data visualization and business intelligence.
-Building a real portfolio with my own data — TikTok, Instagram and more.
+> I'm in it for the moment "huh" becomes "oh, that's why."
+>
+> Statistically normal, personally an outlier.
 
 </div>
 
@@ -41,7 +36,7 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <!-- Skills & Tools Section -->
 <details open>
-<summary><h3>Skills & Technical Toolkit</h3></summary>
+<summary><h3>Tech Stack</h3></summary>
 <br>
 
 <div align="center">
@@ -94,10 +89,9 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 <br><img src="https://img.shields.io/badge/-Version%20Control-F05032?style=flat&logo=git&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<br><b>PyPI</b>
-<br><img src="https://img.shields.io/badge/-tokpipe-D4A5D4?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/-instapipe-D4A5D4?style=flat&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="60"/>
+<br><b>Streamlit</b>
+<br><img src="https://img.shields.io/badge/-Dashboards-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 </td>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
@@ -113,7 +107,7 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <div align="center">
 
-**AI Tools**
+#### AI Tools
 
 <br>
 
@@ -141,23 +135,9 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <br>
 
-<div align="center">
+<div align="left">
 
-**Core Competencies & Growth Areas**
-
-</div>
-
-<br>
-
-<div align="center">
-
-| **Proficient Skills** | **Currently Developing** |
-|:---|:---|
-| Data Cleaning & Preprocessing | Machine Learning (sklearn, Random Forest) |
-| Exploratory Data Analysis | Statistical Inference & Hypothesis Testing |
-| Dashboard Design & UX | Time Series Analysis (statsmodels) |
-| SQL Query Optimization | Cloud Platforms (AWS/Azure) |
-| PyPI Package Development | Deep Learning Basics |
+`# currently exploring: machine learning, cloud`
 
 </div>
 
@@ -169,14 +149,19 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 
 <!-- Certifications Section -->
 <details open>
-<summary><h3>Certifications</h3></summary>
+<summary><h3>Education</h3></summary>
 <br>
 
-<div align="center">
+```
+$ git status -s
+A  google-data-analytics   # Google Data Analytics · completed
+ M bsc-data-science        # BSc Data Science · UOC · ongoing
+ M ironhack-bootcamp       # Data Analytics Bootcamp · Ironhack · ongoing
+```
 
-**Google Data Analytics** — Professional Certificate · Coursera / Google
-<br>
-**IBM Data Analyst** — Professional Certificate · Coursera / IBM
+<div align="left">
+
+[UOC](https://github.com/UOC) · [Ironhack](https://github.com/ironhack)
 
 </div>
 
@@ -191,9 +176,9 @@ Building a real portfolio with my own data — TikTok, Instagram and more.
 <summary><h3>Featured Projects</h3></summary>
 <br>
 
-<div align="center">
+<div align="left">
 
-## redmoon
+#### redmoon
 
 **[redmoon](https://github.com/aroaxinping/redmoon)** · [![PyPI](https://img.shields.io/pypi/v/redmoon?color=E6A8D7&style=flat-square)](https://pypi.org/project/redmoon/)
 
@@ -203,7 +188,7 @@ Python package that crosses menstrual cycle phases with sleep, HRV and heart rat
 
 ---
 
-## PyPI packages — tokpipe & instapipe
+#### PyPI packages — tokpipe & instapipe
 
 **[tokpipe](https://github.com/aroaxinping/tokpipe)** · [![PyPI](https://img.shields.io/pypi/v/tokpipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/tokpipe/) &nbsp;|&nbsp; **[instapipe](https://github.com/aroaxinping/instapipe)** · [![PyPI](https://img.shields.io/pypi/v/instapipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/instapipe/)
 
@@ -213,7 +198,7 @@ Two published Python packages for social media analytics. Import your TikTok or 
 
 ---
 
-## Petróleo, Guerras y el Surtidor
+#### Oil, War, and the Price at the Pump
 
 **[data-playground → project 03](https://github.com/aroaxinping/data-playground)**
 
@@ -246,7 +231,6 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 <br>
 
-
 <!-- GitHub Stats Section -->
 <details open>
 <summary><h3>GitHub Analytics</h3></summary>
@@ -254,17 +238,13 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AroaXinping&show_icons=true&theme=radical&title_color=B388EB&icon_color=E6A8D7&text_color=9D84B7&bg_color=FFE4F0&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=AroaXinping&theme=radical&ring=993556&fire=72243E&currStreakLabel=72243E&sideLabels=72243E&currStreakNum=4B1528&sideNums=4B1528&dates=993556&background=FBEAF0&hide_border=true&border_radius=15&stroke=ED93B1" alt="GitHub Streak" height="160"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AroaXinping&theme=radical&ring=B388EB&fire=E6A8D7&currStreakLabel=B388EB&sideLabels=B388EB&currStreakNum=9D84B7&sideNums=9D84B7&dates=E6A8D7&background=FFE4F0&hide_border=true&border_radius=15&stroke=D4A5D4" alt="GitHub Streak" height="160"/>
+#### Commitment
 
-<br><br>
-
-### My Coding Journey
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AroaXinping&theme=github-compact&bg_color=FFE4F0&color=B388EB&line=E6A8D7&point=B388EB&area=true&hide_border=true&area_color=F5E6F0&title_color=B388EB&custom_title=%20&radius=15&height=200" alt="Activity Graph" width="75%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AroaXinping&theme=github-compact&bg_color=FBEAF0&color=72243E&line=993556&point=72243E&area=true&hide_border=true&area_color=F4C0D1&title_color=72243E&custom_title=%20&radius=15&height=200" alt="Activity Graph" width="75%"/>
 
 <br><br>
 
@@ -283,25 +263,19 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 <br>
 
 <!-- Connect Section -->
-<details>
-<summary><h3>Let's Connect</h3></summary>
+<details open>
+<summary><h3>Contact</h3></summary>
 <br>
 
-<div align="center">
+<div align="left">
 
-**Open to new opportunities and meaningful conversations**
-
-*I'd love to hear from you!*
+Open to work.
 
 <br>
 
-<a href="https://linkedin.com/in/aroa-xinping">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-D4A5D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFE4F0"/>
-</a>
+So call me maybe
 
-<br><br>
-
-*Open to entry-level and junior data roles — always happy to chat.*
+`Aroa(` <a href="https://linkedin.com/in/aroa-xinping"><img src="https://img.shields.io/badge/LinkedIn-D4A5D4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> `)`
 
 </div>
 
@@ -310,13 +284,13 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 <br>
 
 <!-- Footer Section -->
-<div align="center">
+<div align="left">
 
 <br>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-### Thank You for Visiting! <3
+`# Thanks for reading until EOF`
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AroaXinping&color=FFB6C1&style=flat-square&label=Profile+Views)
@@ -325,7 +299,7 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 <br>
 
-*"Data is not just numbers—it's the foundation for informed decisions and purposeful change."*
+*License: MIT — My Ideas, Tested*
 
 <br><br>
 
