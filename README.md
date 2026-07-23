@@ -243,7 +243,7 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 <br><br>
 
-#### Commit Activity
+#### Commitment
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AroaXinping&theme=github-compact&bg_color=FBEAF0&color=72243E&line=993556&point=72243E&area=true&hide_border=true&area_color=F4C0D1&title_color=72243E&custom_title=%20&radius=15&height=200" alt="Activity Graph" width="75%"/>
 
