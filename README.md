@@ -134,7 +134,7 @@ Statistically normal, personally an outlier.
 
 <br>
 
-<div align="center">
+<div align="left">
 
 *Currently going deeper into machine learning and the cloud.*
 
@@ -158,7 +158,7 @@ A  google-data-analytics   # Google Data Analytics · completed
  M ironhack-bootcamp       # Data Analytics Bootcamp · Ironhack · ongoing
 ```
 
-<div align="center">
+<div align="left">
 
 [UOC](https://github.com/UOC) · [Ironhack](https://github.com/ironhack)
 
@@ -175,7 +175,7 @@ A  google-data-analytics   # Google Data Analytics · completed
 <summary><h3>Featured Projects</h3></summary>
 <br>
 
-<div align="center">
+<div align="left">
 
 ## redmoon
 
@@ -271,7 +271,7 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 <summary><h3>Contact</h3></summary>
 <br>
 
-<div align="center">
+<div align="left">
 
 Open to work.
 
