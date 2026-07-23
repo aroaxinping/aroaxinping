@@ -170,14 +170,19 @@ I get curious about small, oddly specific things in my own life — and instead 
 
 <!-- Certifications Section -->
 <details open>
-<summary><h3>Certifications</h3></summary>
+<summary><h3>Education</h3></summary>
 <br>
 
 <div align="center">
 
-**Google Data Analytics** — Professional Certificate · Coursera / Google
-<br>
-**IBM Data Analyst** — Professional Certificate · Coursera / IBM
+```
+$ git status -s
+A  google-data-analytics.md   # Google Data Analytics — Coursera/Google · completed
+ M bsc-data-science.md        # BSc in Data Science — UOC · in progress
+ M ironhack-bootcamp.md       # Data Analytics Bootcamp — Ironhack · in progress
+```
+
+@UOC · @ironhack
 
 </div>
 
