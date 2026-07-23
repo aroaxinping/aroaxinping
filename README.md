@@ -239,10 +239,6 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AroaXinping&show_icons=true&theme=radical&title_color=72243E&icon_color=993556&text_color=4B1528&bg_color=FBEAF0&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" height="160"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=AroaXinping&theme=radical&ring=993556&fire=72243E&currStreakLabel=72243E&sideLabels=72243E&currStreakNum=4B1528&sideNums=4B1528&dates=993556&background=FBEAF0&hide_border=true&border_radius=15&stroke=ED93B1" alt="GitHub Streak" height="160"/>
 
 <br><br>
