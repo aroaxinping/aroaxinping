@@ -3,13 +3,9 @@
 
 <br>
 
-# `class Aroa(DataAnalyst):`
+# class Aroa(DataAnalyst):
 
-`"""Answers her own questions with data."""`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false" width="50%"/>
+*"""Answers her own questions with data."""*
 
 <br>
 
