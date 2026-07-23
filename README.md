@@ -1,5 +1,5 @@
 <!-- Header -->
-<div align="center">
+<div align="left">
 
 <br>
 
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<div align="center">
+<div align="left">
 
 I'm in it for the moment "huh" becomes "oh, that's why."<br>
 Statistically normal, personally an outlier.
