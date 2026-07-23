@@ -29,9 +29,9 @@ class Aroa(DataAnalyst):
 
 <div align="center">
 
-Data analyst who works out whether a number actually means anything.
+I'm in it for the moment "huh" becomes "oh, that's why."
 
-Sometimes that's business dashboards. Sometimes it's checking whether "89% of women agree" survives a t-test. (It usually doesn't.)
+Statistically normal, personally an outlier.
 
 </div>
 
