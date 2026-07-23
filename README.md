@@ -6,7 +6,7 @@
 #  Aroa Xinping
 
 ```python
-def Aroa(self) -> DataAnalyst:
+class Aroa(DataAnalyst):
     """Answers her own questions with data."""
 ```
 
