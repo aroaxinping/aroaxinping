@@ -290,24 +290,18 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 <!-- Connect Section -->
 <details>
-<summary><h3>Let's Connect</h3></summary>
+<summary><h3>Contact</h3></summary>
 <br>
 
 <div align="center">
 
-**Open to new opportunities and meaningful conversations**
-
-*I'd love to hear from you!*
+Open to entry-level and junior data roles — always happy to chat.
 
 <br>
 
 <a href="https://linkedin.com/in/aroa-xinping">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-D4A5D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFE4F0"/>
 </a>
-
-<br><br>
-
-*Open to entry-level and junior data roles — always happy to chat.*
 
 </div>
 
