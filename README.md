@@ -22,8 +22,9 @@
 
 <div align="left">
 
-I'm in it for the moment "huh" becomes "oh, that's why."<br>
-Statistically normal, personally an outlier.
+> I'm in it for the moment "huh" becomes "oh, that's why."
+>
+> Statistically normal, personally an outlier.
 
 </div>
 
