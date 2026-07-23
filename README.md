@@ -159,16 +159,16 @@ Statistically normal, personally an outlier.
 <summary><h3>Education</h3></summary>
 <br>
 
-<div align="center">
-
 ```
 $ git status -s
-A  google-data-analytics.md   # Google Data Analytics — Coursera/Google · completed
- M bsc-data-science.md        # BSc in Data Science — UOC · in progress
- M ironhack-bootcamp.md       # Data Analytics Bootcamp — Ironhack · in progress
+A  google-data-analytics   # Google Data Analytics · completed
+ M bsc-data-science        # BSc Data Science · UOC · ongoing
+ M ironhack-bootcamp       # Data Analytics Bootcamp · Ironhack · ongoing
 ```
 
-@UOC · @ironhack
+<div align="center">
+
+[UOC](https://github.com/UOC) · [Ironhack](https://github.com/ironhack)
 
 </div>
 
