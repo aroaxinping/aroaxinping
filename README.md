@@ -190,7 +190,7 @@ Python package that crosses menstrual cycle phases with sleep, HRV and heart rat
 
 #### PyPI packages — tokpipe & instapipe
 
-**[tokpipe](https://github.com/aroaxinping/tokpipe)** · [![PyPI](https://img.shields.io/pypi/v/tokpipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/tokpipe/) &nbsp;|&nbsp; **[instapipe](https://github.com/aroaxinping/instapipe)** · [![PyPI](https://img.shields.io/pypi/v/instapipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/instapipe/)
+**[tokpipe](https://github.com/aroaxinping/tokpipe)** · [![PyPI](https://img.shields.io/pypi/v/tokpipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/tokpipe/) · [**Live demo →**](https://tokpipe.streamlit.app) &nbsp;|&nbsp; **[instapipe](https://github.com/aroaxinping/instapipe)** · [![PyPI](https://img.shields.io/pypi/v/instapipe?color=E6A8D7&style=flat-square)](https://pypi.org/project/instapipe/) · [**Live demo →**](https://instapipe.streamlit.app)
 
 Two published Python packages for social media analytics. Import your TikTok or Instagram exports, clean the data, compute real metrics and visualize what works — no APIs, no scraping.
 
