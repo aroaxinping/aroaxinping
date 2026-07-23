@@ -238,17 +238,17 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AroaXinping&show_icons=true&theme=radical&title_color=B388EB&icon_color=E6A8D7&text_color=9D84B7&bg_color=FFE4F0&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AroaXinping&show_icons=true&theme=radical&title_color=72243E&icon_color=993556&text_color=4B1528&bg_color=F5B8D4&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" height="160"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=AroaXinping&theme=radical&ring=B388EB&fire=E6A8D7&currStreakLabel=B388EB&sideLabels=B388EB&currStreakNum=9D84B7&sideNums=9D84B7&dates=E6A8D7&background=FFE4F0&hide_border=true&border_radius=15&stroke=D4A5D4" alt="GitHub Streak" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=AroaXinping&theme=radical&ring=993556&fire=72243E&currStreakLabel=72243E&sideLabels=72243E&currStreakNum=4B1528&sideNums=4B1528&dates=993556&background=F5B8D4&hide_border=true&border_radius=15&stroke=ED93B1" alt="GitHub Streak" height="160"/>
 
 <br><br>
 
 #### Commit Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AroaXinping&theme=github-compact&bg_color=FFE4F0&color=B388EB&line=E6A8D7&point=B388EB&area=true&hide_border=true&area_color=F5E6F0&title_color=B388EB&custom_title=%20&radius=15&height=200" alt="Activity Graph" width="75%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AroaXinping&theme=github-compact&bg_color=F5B8D4&color=72243E&line=993556&point=72243E&area=true&hide_border=true&area_color=F4C0D1&title_color=72243E&custom_title=%20&radius=15&height=200" alt="Activity Graph" width="75%"/>
 
 <br><br>
 
