@@ -285,9 +285,9 @@ Open to entry-level and junior data roles — always happy to chat.
 
 <br>
 
-<a href="https://linkedin.com/in/aroa-xinping">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-D4A5D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFE4F0"/>
-</a>
+So call me maybe
+
+`Aroa(` <a href="https://linkedin.com/in/aroa-xinping"><img src="https://img.shields.io/badge/in%2Faroa--xinping-D4A5D4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> `)`
 
 </div>
 
