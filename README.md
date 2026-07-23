@@ -180,7 +180,7 @@ A  google-data-analytics   # Google Data Analytics · completed
 
 #### redmoon
 
-**[redmoon](https://github.com/aroaxinping/redmoon)** · [![PyPI](https://img.shields.io/pypi/v/redmoon?color=E6A8D7&style=flat-square)](https://pypi.org/project/redmoon/)
+**[redmoon](https://github.com/aroaxinping/redmoon)** · [![PyPI](https://img.shields.io/pypi/v/redmoon?color=E6A8D7&style=flat-square)](https://pypi.org/project/redmoon/) · [**Live demo →**](https://redmoon.streamlit.app)
 
 Python package that crosses menstrual cycle phases with sleep, HRV and heart rate data from Apple Health exports. Built on 6 years of personal data (76 cycles, 1,153 nights). Wrist temperature rises +0.375°C in luteal phase (p < 0.000001). Random Forest predicts luteal vs non-luteal at F1 = 0.79.
 
