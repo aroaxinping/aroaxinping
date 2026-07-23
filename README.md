@@ -22,16 +22,16 @@ def Aroa(self) -> DataAnalyst:
 
 <!-- About Me Section -->
 <details open>
-<summary><h3>About Me</h3></summary>
+<summary><h3>Overview</h3></summary>
 
 <br>
 <br>
 
 <div align="center">
 
-Data analyst in progress · BSc in Data Science (UOC)
-Focused on statistical analysis, data visualization and business intelligence.
-Building a real portfolio with my own data — TikTok, Instagram and more.
+Data analyst focused on statistics, data visualization and business intelligence.
+
+I get curious about small, oddly specific things in my own life — and instead of letting it go, I build something to find out. Some of it turns into data. Some of it just turns out funny.
 
 </div>
 
