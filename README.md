@@ -6,8 +6,7 @@
 #  Aroa Xinping
 
 ```python
-def Aroa(self) -> DataAnalyst:
-    """Answers her own questions with data."""
+def Aroa(self) -> DataAnalyst: ...
 ```
 
 <br>
@@ -29,9 +28,14 @@ def Aroa(self) -> DataAnalyst:
 
 <div align="center">
 
-Data analyst focused on statistics, visualization and business intelligence.
+```python
+"""
+Data analyst who works out whether a number actually means anything.
 
-Sometimes I get oddly specific questions about my own life, and answer them with data. Some of it turns into something useful. Some of it just turns out funny.
+Sometimes that's dashboards and business questions. Sometimes it's testing
+whether "89% of women agree" survives a t-test. (It usually doesn't.)
+"""
+```
 
 </div>
 
