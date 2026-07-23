@@ -231,7 +231,6 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 <br>
 
-
 <!-- GitHub Stats Section -->
 <details open>
 <summary><h3>GitHub Analytics</h3></summary>
