@@ -11,7 +11,7 @@
 
 </div>
 
-<br>
+---
 
 <!-- About Me Section -->
 <details open>
@@ -31,7 +31,7 @@ Statistically normal, personally an outlier.
 
 </details>
 
-<br>
+---
 
 <!-- Skills & Tools Section -->
 <details open>
@@ -144,7 +144,7 @@ Statistically normal, personally an outlier.
 
 </details>
 
-<br>
+---
 
 <!-- Certifications Section -->
 <details open>
@@ -168,7 +168,7 @@ A  google-data-analytics   # Google Data Analytics · completed
 
 </details>
 
-<br>
+---
 
 <!-- Projects Section -->
 <details open>
@@ -264,7 +264,7 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 </details>
 
-<br>
+---
 
 <!-- Connect Section -->
 <details open>
@@ -285,7 +285,7 @@ So call me maybe
 
 </details>
 
-<br>
+---
 
 <!-- Footer Section -->
 <div align="center">
