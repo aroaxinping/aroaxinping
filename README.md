@@ -5,8 +5,10 @@
 
 #  Aroa Xinping
 
-###  Turning data into meaningful stories.
-### Continuously learning, intentionally creating.
+```python
+def Aroa(self) -> DataAnalyst:
+    """Answers her own questions with data."""
+```
 
 <br>
 
