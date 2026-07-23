@@ -288,7 +288,7 @@ So call me maybe
 ---
 
 <!-- Footer Section -->
-<div align="center">
+<div align="left">
 
 <br>
 
