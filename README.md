@@ -144,21 +144,7 @@ Statistically normal, personally an outlier.
 
 <div align="center">
 
-**Core Competencies & Growth Areas**
-
-</div>
-
-<br>
-
-<div align="center">
-
-| **Proficient Skills** | **Currently Developing** |
-|:---|:---|
-| Data Cleaning & Preprocessing | Machine Learning (sklearn, Random Forest) |
-| Exploratory Data Analysis | Statistical Inference & Hypothesis Testing |
-| Dashboard Design & UX | Time Series Analysis (statsmodels) |
-| SQL Query Optimization | Cloud Platforms (AWS/Azure) |
-| PyPI Package Development | Deep Learning Basics |
+*Currently going deeper into machine learning and the cloud.*
 
 </div>
 
