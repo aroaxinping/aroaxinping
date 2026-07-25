@@ -275,7 +275,7 @@ Open to work.
 
 So call me maybe
 
-`Aroa(` <a href="https://linkedin.com/in/aroa-xinping"><img src="https://img.shields.io/badge/LinkedIn-D4A5D4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> `)`
+`Aroa(` <a href="https://linkedin.com/in/aroaxinping"><img src="https://img.shields.io/badge/LinkedIn-D4A5D4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> `)`
 
 </div>
 
