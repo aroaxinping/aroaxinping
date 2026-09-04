@@ -230,36 +230,6 @@ Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag c
 
 </details>
 
-<br>
-
-<!-- GitHub Stats Section -->
-<details open>
-<summary><h3>GitHub Analytics</h3></summary>
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AroaXinping&theme=radical&ring=993556&fire=72243E&currStreakLabel=72243E&sideLabels=72243E&currStreakNum=4B1528&sideNums=4B1528&dates=993556&background=FBEAF0&hide_border=true&border_radius=15&stroke=ED93B1" alt="GitHub Streak" height="160"/>
-
-<br><br>
-
-#### Commitment
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AroaXinping&theme=github-compact&bg_color=FBEAF0&color=72243E&line=993556&point=72243E&area=true&hide_border=true&area_color=F4C0D1&title_color=72243E&custom_title=%20&radius=15&height=200" alt="Activity Graph" width="75%"/>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aroaxinping/aroaxinping/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aroaxinping/aroaxinping/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/aroaxinping/aroaxinping/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br>
-
-</details>
 
 <br>
 
