@@ -3,7 +3,7 @@
 
 <br>
 
-# class Aroa(DataAnalyst):
+# class Aroa:
 
 *"""Answers her own questions with data."""*
 
@@ -41,92 +41,75 @@
 
 <div align="center">
 
+#### Data
+
 <table>
 <tr>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
 <br><b>Python</b>
-<br><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+<br><b>Pandas</b>
+</td>
+<td align="center" width="20%">
+<img src="icons/polars.svg" width="60"/>
+<br><b>Polars</b>
 </td>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
 <br><b>SQL</b>
-<br><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="60"/>
-<br><b>Excel</b>
-<br><img src="https://img.shields.io/badge/-Advanced-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="60"/>
-<br><b>Tableau</b>
-<br><img src="https://img.shields.io/badge/-Dashboards-E97627?style=flat&logo=tableau&logoColor=white"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="60"/>
-<br><b>Power BI</b>
-<br><img src="https://img.shields.io/badge/-Reports-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/>
 <br><b>Jupyter</b>
-<br><img src="https://img.shields.io/badge/-Notebooks-F37626?style=flat&logo=jupyter&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
-<br><b>VS Code</b>
-<br><img src="https://img.shields.io/badge/-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-<br><b>Git</b>
-<br><img src="https://img.shields.io/badge/-Version%20Control-F05032?style=flat&logo=git&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="60"/>
-<br><b>Streamlit</b>
-<br><img src="https://img.shields.io/badge/-Dashboards-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
-<br><b>Matplotlib</b>
-<br><img src="https://img.shields.io/badge/-Visualization-11557c?style=flat&logoColor=white"/>
 </td>
 </tr>
 </table>
 
-</div>
+<br>
+
+#### Machine Learning
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60"/>
+<br><b>scikit-learn</b>
+</td>
+<td align="center" width="25%">
+<img src="icons/xgboost.png" width="60"/>
+<br><b>XGBoost</b>
+</td>
+<td align="center" width="25%">
+<img src="icons/scipy.svg" width="60"/>
+<br><b>SciPy</b>
+</td>
+<td align="center" width="25%">
+<img src="icons/statsmodels.svg" width="60"/>
+<br><b>statsmodels</b>
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
-
-#### AI Tools
-
-<br>
+#### Visualization
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/anthropic/D4A5D4" width="55" height="55"/>
-<br><b>Claude Code</b>
-<br><img src="https://img.shields.io/badge/-Anthropic-D4A5D4?style=flat&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
+<br><b>Matplotlib</b>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/chatgpt.png" width="55" height="55"/>
-<br><b>ChatGPT</b>
-<br><img src="https://img.shields.io/badge/-OpenAI-10a37f?style=flat&logo=openai&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="60"/>
+<br><b>Streamlit</b>
 </td>
 <td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/google/4285F4" width="55" height="55"/>
-<br><b>NotebookLM</b>
-<br><img src="https://img.shields.io/badge/-Google_AI-4285F4?style=flat&logo=google&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="60"/>
+<br><b>Tableau</b>
 </td>
 </tr>
 </table>
@@ -135,11 +118,6 @@
 
 <br>
 
-<div align="left">
-
-`# next up: machine learning, cloud`
-
-</div>
 
 <br>
 
@@ -177,6 +155,16 @@ A  google-data-analytics   # Google Data Analytics · completed
 <br>
 
 <div align="left">
+
+#### drive-failure-predictor
+
+**[drive-failure-predictor](https://github.com/aroaxinping/drive-failure-predictor)** · [**Pitch deck →**](https://docs.google.com/presentation/d/1Li62E2sg0PKQaqIFmbMlMlFfaS1nOipx/edit?usp=sharing&ouid=103123837645577444399&rtpof=true&sd=true)
+
+Predictive maintenance model that detects 96% of hard drive failures before they happen, using SMART sensor data from 318K production drives. Cost-optimised threshold saves **$49,200/quarter** vs reactive maintenance. Temporal validation with rolling windows confirms the model generalises across time (F1 = 0.77, AUC-ROC = 0.99).
+
+`Python` `XGBoost` `scikit-learn` `Polars` `Pandas` · *28M rows · cost-sensitive threshold · CLI inference*
+
+---
 
 #### redmoon
 
