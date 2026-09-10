@@ -195,7 +195,7 @@ Predicts cloud infrastructure waste from 123K real VMs. XGBoost quantile regress
 
 **[leaked-key-impact](https://github.com/aroaxinping/leaked-key-impact)**
 
-Deliberately leaked a fake AWS key to see who'd use it, how fast, and what it costs — grew into a fleet of decoy credentials. **1,301 real attacks** logged and mapped to MITRE ATT&CK, enriched with OSINT (proxy/hosting infrastructure, GreyNoise), and priced with a real cost model. Streamlit dashboard for exploring the attack timeline.
+Deliberately leaked a fake AWS key to see who'd use it. Grew into a fleet of decoy credentials — **1,301 real attacks** logged, mapped to MITRE ATT&CK, enriched with OSINT, and priced with a real cost model.
 
 `Python` `boto3` `MITRE ATT&CK` `Streamlit` · *OSINT enrichment · A/B experiment on credential placement*
 
@@ -231,20 +231,11 @@ Two published Python packages for social media analytics. Import your TikTok or 
 
 ---
 
-#### Oil, War, and the Price at the Pump
-
-**[data-playground → project 03](https://github.com/aroaxinping/data-playground)**
-
-Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag cross-correlogram (0–8 weeks), geopolitical event study (Gulf War → Ukraine), and Rocket & Feather asymmetry test.
-
-`Python` `pandas` `scipy` `statsmodels` · *time series · econometrics*
-
----
-
 **Other projects**
 
 | Repo | Stack | About |
 |---|---|---|
+| [data-playground → Oil, War, and the Price at the Pump](https://github.com/aroaxinping/data-playground) | Python · pandas · scipy · statsmodels | Four independent analyses on fuel pricing: Pearson correlation (r = 0.99), lag cross-correlogram, geopolitical event study, Rocket & Feather asymmetry test |
 | [social-media-analytics](https://github.com/aroaxinping/social-media-analytics-aroaxinping) | Python · pandas | TikTok vs Instagram — same creator, same period, two algorithms. Normalized KPIs + scorecard |
 | [sql-social-media-analytics](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping) | SQL · SQLite | Same data analyzed with pure SQL — window functions, CTEs, correlated subqueries |
 | [data-playground → Google Trends](https://github.com/aroaxinping/data-playground/tree/main/04-google-trends-bolsa) | Python · pytrends · yfinance | Crisis search terms vs IBEX 35 — Granger causality, cross-correlogram, 3yr weekly data |
