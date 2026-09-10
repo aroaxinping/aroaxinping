@@ -95,6 +95,31 @@
 
 <br>
 
+#### Cloud & Ops
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
+<br><b>AWS</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
+<br><b>Docker</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60"/>
+<br><b>FastAPI</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+<br><b>Git</b>
+</td>
+</tr>
+</table>
+
+<br>
+
 #### Visualization
 
 <table>
@@ -155,6 +180,26 @@ A  google-data-analytics   # Google Data Analytics · completed
 <br>
 
 <div align="left">
+
+#### cloud-cost-predictor
+
+**[cloud-cost-predictor](https://github.com/aroaxinping/cloud-cost-predictor)**
+
+Predicts cloud infrastructure waste from 123K real VMs. XGBoost quantile regression (q=0.10/0.50/0.95) with asymmetric loss recommends which VMs to terminate, downsize, or keep — **$5.9M/month waste identified** on an $11M fleet (54%). Includes a Reserved Instances module pricing real AWS commitment discounts against on-demand cost, and a Monte Carlo simulation for uncertainty-aware savings estimates.
+
+`Python` `XGBoost` `FastAPI` `Docker` `Streamlit` · *SHAP explainability · quantile regression · Monte Carlo*
+
+---
+
+#### leaked-key-impact
+
+**[leaked-key-impact](https://github.com/aroaxinping/leaked-key-impact)**
+
+Deliberately leaked a fake AWS key to see who'd use it, how fast, and what it costs — grew into a fleet of decoy credentials. **1,301 real attacks** logged and mapped to MITRE ATT&CK, enriched with OSINT (proxy/hosting infrastructure, GreyNoise), and priced with a real cost model. Streamlit dashboard for exploring the attack timeline.
+
+`Python` `boto3` `MITRE ATT&CK` `Streamlit` · *OSINT enrichment · A/B experiment on credential placement*
+
+---
 
 #### drive-failure-predictor
 
